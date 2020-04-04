@@ -1,3 +1,1 @@
-2号仓库修改了test.txt
-3号仓库通过sourceTree修改了test.txt
-3号仓库通过命令行的方式再次提交了修改。
+三号仓库通过sourcetree进行了修改
